@@ -38,7 +38,7 @@ while(True):
             print(MyText)
             
         if 'goodbye' in message or ('power off') in message or ('stop') in message:                          
-            rand ='Goodbye Sir. Jash powering off in 3.. 2.. 1.. 0'
+            rand ='Goodbye Sir. Powering off in 3.. 2.. 1.. 0'
             SpeakText(rand)
             break
             
@@ -48,7 +48,7 @@ while(True):
             SpeakText(rand)
 
         elif ('hello') in message or ('hi') in message:
-            rand ="Hello Sir. I'm Jash - Your Assistant . At Your Service Sir. "
+            rand ="Hello Sir. I'm Your Assistant . At Your Service Sir. "
             SpeakText(rand)
 
         elif ('thanks') in message or ('tanks') in message or ('thank you') in message:
