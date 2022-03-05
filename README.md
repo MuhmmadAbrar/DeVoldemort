@@ -19,7 +19,10 @@ Modules to be installed:
     Alternatively you can download using the whl file present in the 
     link below.
     https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
-
+    
+    Follow this link to install the .whl file as a normal python package.
+    https://stackoverflow.com/questions/27885397/how-do-i-install-a-python-package-with-a-whl-file
+    
 6. For games, It's required to pre install in the command prompt 
    using python -m pip install freegames command.
 
